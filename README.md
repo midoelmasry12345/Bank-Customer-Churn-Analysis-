@@ -1,4 +1,3 @@
-<img width="1872" height="713" alt="image" src=https://github.com/midoelmasry12345/Bank-Customer-Churn-Analysis-/blob/main/dashboard.png?raw=true"/>
 # Customer Churn Intelligence Dashboard (Power BI)
 
 This dashboard analyzes customer churn behavior and identifies main churn drivers, high-risk customer segments, and potential retention actions.
